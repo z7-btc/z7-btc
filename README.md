@@ -2,7 +2,7 @@
 - 👀 I’m interested in trading and python
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on people who is good at trading or pineScript
-- 📫  reach me zyjy2001zyjy@163.com
+- 📫  reach me auto_trading_official@outlook.com
 
 <!---
 z7-btc/z7-btc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
